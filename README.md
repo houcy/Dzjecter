@@ -9,6 +9,7 @@ simple script for scanning server
 ★ how to use
 
 chmod +x Dzjecter.py
+
 python Dzjecter.py
 
 ★ Screenshot:
