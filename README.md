@@ -1,4 +1,4 @@
-## ★ Dzjecter V0.1
+## ★ Dzjecter V1.0
 
 Author: joker-security |  Mohamed Yacine [ dev-labs ]
 
