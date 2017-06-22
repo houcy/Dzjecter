@@ -8,7 +8,13 @@ simple script for scanning server
 
 ## ★ How To Use :
 
+## Download The Tool
+
+git clone https://github.com/joker25000/Dzjecter
+
 chmod +x Dzjecter.py
+
+## Run The Tool
 
 python Dzjecter.py
 
