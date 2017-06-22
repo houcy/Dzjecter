@@ -4,17 +4,17 @@ Author: joker-security |  Mohamed Yacine [ dev-labs ]
 
 ## ★ Description:
 
-simple script for scanning server 
+Simple script for scanning server 
 
 ## ★ How To Use :
 
-## Download The Tool
+1 - Download the tool from github
 
 git clone https://github.com/joker25000/Dzjecter
 
 chmod +x Dzjecter.py
 
-## Run The Tool
+2 - Run Dzjecter Tool
 
 python Dzjecter.py
 
