@@ -1,20 +1,22 @@
-★ Dzjecter V0.1
+## ★ Dzjecter V0.1
 
 Author: joker-security |  Mohamed Yacine [ dev-labs ]
 
-★ Description:
+## ★ Description:
 
 simple script for scanning server 
 
-★ how to use
+## ★ How To Use :
 
 chmod +x Dzjecter.py
 
 python Dzjecter.py
 
-★ Screenshot:
+## ★ Screenshot:
+
 ![pic1](http://i.imgur.com/AThUX3U.png)
 
+## ★ About:
 
 ★ WEBSITE : http://dev-labs.co
 
