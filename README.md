@@ -22,6 +22,10 @@ python Dzjecter.py
 
 ![pic1](http://i.imgur.com/AThUX3U.png)
 
+##  ★ video tutorial: 
+
+https://www.youtube.com/watch?v=i2zZA9LAbbk&t=215s
+
 ## ★ About:
 
 ★ WEBSITE : http://dev-labs.co
